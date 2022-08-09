@@ -20,8 +20,14 @@ In 2018, all green stocks are showing downward trend with the exception of 'ENPH
 
 ### Refactored script vs non-refactored 
 
+Non-Refactored Elapsed Time Printscreens:
+
 ![green_stocks_2017](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/green_stocks_2017.PNG)
 ![green_stocks_2018](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/green_stocks_2018.PNG)
+
+
+Refactored Elapsed Time Printscreens:
+
 ![VBA_Challenge_2017](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 ![VBA_Challenge_2018](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
