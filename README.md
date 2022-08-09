@@ -4,14 +4,14 @@ Module 2 Challenge
 
 ## Overview of Project: Explain the purpose of this analysis.
 Steve recently graduated in finanace concentration. His parents are interested in investing in green stocks, particularly in DAQ0 stock. They asked Steve to analyze the market so that they can invest in right green stock. 
-Steve gathered two years data on about 12 green stocks to analyze the profitable stocks 
+Steve gathered two years data on about 12 green stocks to analyze the profitable stocks. 
 With refactored code, Steve would be able to expand the dataset to include entire stock market over couple of years as it's more robust.
 
 ## Results: 
 
 ### Comparison of stock analysis results for years 2017 and 2018
 
-![Stock_Analysis_Numbers_2017_2018](Image link)
+![Stock_Analysis_Numbers_2017_2018](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/Stock_Analysis_Numbers_2017_2018.PNG)
 
 We can clearly see that stock market was doing really good in 2017 with all the green stocks showing upward trend except 'TERP'. 'DQ' was at the top that year in returns.
 
@@ -20,16 +20,16 @@ In 2018, all green stocks are showing downward trend with the exception of 'ENPH
 
 ### Refactored script vs non-refactored 
 
-![green_stocks_2017](Image link)
-![green_stocks_2018](Image link)
-![VBA_Challenge_2017](Image link)
-![VBA_Challenge_2018](Image link)
+![green_stocks_2017](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/green_stocks_2017.PNG)
+![green_stocks_2018](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/green_stocks_2018.PNG)
+![VBA_Challenge_2017](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2018](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 We can clearly see that refactored script ran faster, thus saving time and is expandable for anlayzing entire stock market over couple of years.
 Refcatoring was achieved using arrays. Maintaining arrays for all tickers' volumes, starting prices and ending prices is very useful as these can be used for any other use in future (including arrays code snippet screenshot below). We won't be needed to go over all the rows of data again to gather same information as we saved in arrays.
 Arrays added structure to code, and readability improved with comments as well.
 
-![Code_Snippet](Image link)
+![Code_Snippet](https://github.com/Meghajain84/stock-analysis/blob/main/Resources/refactor_code_loop_screenshot.PNG)
 
 In my opoinion best time to buy stock is when market is bit down in order to get good rate to buy; but should be convinced that market will go up for green stocks. That confidence can only come after looking at trend for couple of years and be informed about green energy's direction in the country.
 
